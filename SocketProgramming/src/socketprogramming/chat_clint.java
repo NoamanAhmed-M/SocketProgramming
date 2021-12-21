@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package socketprogramming;
-
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -20,7 +19,7 @@ import static socketprogramming.chat_server.dout;
 public class chat_clint extends javax.swing.JFrame {
 
     /**
-     * Creates new form chat_clint
+     * Creates new form chat_clint ll
      */
     static Socket s;
     static DataInputStream din;
